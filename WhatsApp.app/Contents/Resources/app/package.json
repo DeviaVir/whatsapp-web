@@ -1,0 +1,1 @@
+{"name":"whatsapp-web","version":"0.0.1","description":"Unofficial WhatsApp Web for Mac","main":"src/main.js","repository":{"type":"git","url":"https://github.com/deviavir/whatsapp-web"},"bugs":{"url":"https://github.com/deviavir/whatsapp-web/issues"},"author":"Chase Sillevis <chase@sillevis.net> (https://github.com/deviavir)","license":"MIT","atomShellVersion":"0.22.3"}
