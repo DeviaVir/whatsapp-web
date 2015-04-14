@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-web",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial WhatsApp Web for Mac",
   "main": "src/main.js",
   "repository": {
