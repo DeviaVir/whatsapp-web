@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-web",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial WhatsApp Web for Mac",
   "main": "src/main.js",
   "repository": {
@@ -12,5 +12,8 @@
   },
   "author": "Chase Sillevis <chase@sillevis.net> (https://github.com/deviavir)",
   "license": "MIT",
-  "atomShellVersion": "0.22.3"
+  "atomShellVersion": "0.23.0",
+  "dependencies": {
+    "bluebird": "^2.9.24"
+  }
 }

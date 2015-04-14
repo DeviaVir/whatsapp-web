@@ -50,7 +50,7 @@ setInterval ->
   if title and title isnt lastTitle and title.indexOf('http') isnt 0
     titleElement.innerHTML = title
 
-    badgeResult = (/(?:\(([0-9])\) )?messenger/ig).exec(title)
+    badgeResult = (/(?:\(([0-9])\) )?whatsapp/ig).exec(title)
     if badgeResult
       app.dock.setBadge(badgeResult[1] or '')
 
