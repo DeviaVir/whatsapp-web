@@ -1,4 +1,4 @@
-# Messenger for Mac
+# WhatsApp for Mac
 
 This is a 5-minute experiment to make an **unofficial** Mac App for WhatsApp Web. 
 
