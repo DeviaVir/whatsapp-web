@@ -1,5 +1,7 @@
 # WhatsApp for Mac
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeviaVir/whatsapp-web.svg)](https://greenkeeper.io/)
+
 This is a 5-minute experiment to make an **unofficial** Mac App for WhatsApp Web. 
 
 > Works for me, may work for you :metal: 
